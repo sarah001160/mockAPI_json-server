@@ -1,0 +1,25 @@
+{
+  "Hotels": [
+    {
+      "id": 0,
+      "HotelName": "南國海岸渡假特色民宿",
+      "Description": "位於屏東縣的民宿",
+      "Address": "屏東縣琉球鄉肚仔坪路8號",
+      " ZipCode": "929"
+    },
+    {
+      "id": 1,
+      "HotelName": "瑚岩美術館民宿",
+      "Description": "位於屏東縣的民宿",
+      "Address": "屏東縣琉球鄉中山路23號",
+      " ZipCode": "929"
+    },
+    {
+      "id": 2,
+      "HotelName": "迪噢叢林旅宿",
+      "Description": "位於屏東縣的民宿",
+      "Address": "屏東縣恆春鎮龍泉路3巷10號",
+      " ZipCode": "946"
+    }
+  ]
+}
